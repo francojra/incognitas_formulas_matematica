@@ -13,7 +13,7 @@ sequenceExp <- function(m,n) {
           x <- (7**i - 3**j);
           print(i) | print(j) | print(x);
           print("######");
-          if ((x) == 16726) break ;
+          if ((x) == 16726) break ; # o break permite que a função pare de rodar até encontrar o resultado final.
         }
       }
     }
