@@ -1,3 +1,3 @@
 # Incognitas de fórmulas matemáticas
 
-### Esse código permite descobrir incógnitas 'a' e 'b' até encontrar um resultado estabelecido na fórmula.
+### Esse código permite descobrir os valores das incógnitas 'a' e 'b' em uma fómula matemática.
